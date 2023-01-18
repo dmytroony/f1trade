@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Indicators and Expert Advisors - My Account</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="free_resources.html">Free Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="my_account.html">My Account</a></li>
+        <li><a href="shopping_cart.html">Shopping Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>
+        <li><a href="legal.html">Legal</a></li>
+        <li><a href="support.html">Support</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>My Account</h1>
+    <div class="account-content">
+        <h2>Account Information</h2>
+        <div>
+          <p>Name: John Doe</p>
+          <p>Email: johndoe@email.com</p>
+<button onclick="location.href='edit_account.html'">Edit Information</button>
+</div>
+<h2>Order History</h2>
+<table>
+<tr>
+<th>Order Number</th>
+<th>Date</th>
+<th>Total</th>
+<th>Status</th>
+<th>Details</th>
+</tr>
+<tr>
+<td>12345</td>
+<td>01/01/2022</td>
+<td>$99.99</td>
+<td>Shipped</td>
+<td><button onclick="location.href='order_details.html'">View Details</button></td>
+</tr>
+<tr>
+<td>67890</td>
+<td>02/01/2022</td>
+<td>$49.99</td>
+<td>Delivered</td>
+<td><button onclick="location.href='order_details.html'">View Details</button></td>
+</tr>
+</table>
+</div>
+
+  </main>
+  <footer>
+    <p>Copyright ©2022 Trading Indicators and Expert Advisors</p>
+  </footer>
+</body>
+</html>
+
+

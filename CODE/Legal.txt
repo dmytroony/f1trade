@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Indicators and Expert Advisors - Legal</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="free_resources.html">Free Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="my_account.html">My Account</a></li>
+        <li><a href="shopping_cart.html">Shopping Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>
+        <li><a href="legal.html">Legal</a></li>
+        <li><a href="support.html">Support</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Legal</h1>
+    <div class="legal-content">
+      <h2>Terms of Service</h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor neque eu tellus rhoncus, id varius justo suscipit. Proin auctor suscipit nunc, a gravida turpis bibendum id. Praesent euismod, velit a bibendum malesuada, massa nibh malesuada augue, eget euismod metus ligula at quam. Sed bibendum, est in scelerisque scelerisque, risus risus gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit. Sed auctor, magna a molestie malesuada, nisl nisl gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit.
+</p>
+<h2>Privacy Policy</h2>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor neque eu tellus rhoncus, id varius justo suscipit. Proin auctor suscipit nunc, a gravida turpis bibendum id. Praesent euismod, velit a bibendum malesuada, massa nibh malesuada augue, eget euismod metus ligula at quam. Sed bibendum, est in scelerisque scelerisque, risus risus gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit. Sed auctor, magna a molestie malesuada, nisl nisl gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit.
+</p>
+<h2>Refund Policy</h2>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor neque eu tellus rhoncus, id varius justo suscipit. Proin auctor suscipit nunc, a gravida turpis bibendum id. Praesent euismod, velit a bibendum malesuada, massa nibh malesuada augue,eget euismod metus ligula at quam. Sed bibendum, est in scelerisque scelerisque, risus risus gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit. Sed auctor, magna a molestie malesuada, nisl nisl gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit.
+</p>
+<h2>Privacy Policy</h2>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor neque eu tellus rhoncus, id varius justo suscipit. Proin auctor suscipit nunc, a gravida turpis bibendum id. Praesent euismod, velit a bibendum malesuada, massa nibh malesuada augue, eget euismod metus ligula at quam. Sed bibendum, est in scelerisque scelerisque, risus risus gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit. Sed auctor, magna a molestie malesuada, nisl nisl gravida odio, eu malesuada augue eros a risus. Sed auctor odio id magna euismod, in euismod odio congue. Nam sit amet malesuada risus, eget rhoncus elit.
+</p>
+<h2>Refund Policy</h2>
+<p>
+We offer a 30-day money-back guarantee for all f our products. If you are not satisfied with your purchase, please contact us within 30 days of receiving the product for a full refund. Please note that in order to be eligible for a refund, the product must be returned in its original packaging and in the same condition as received. Customized products, such as personalized indicators or expert advisors, are not eligible for refund.
+</p>
+</div>
+
+  </main>
+  <footer>
+    <p>Copyright ©2022 Trading Indicators and Expert Advisors</p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+

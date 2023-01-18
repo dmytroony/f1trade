@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Indicators and Expert Advisors - Free Resources</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="free_resources.html">Free Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="my_account.html">My Account</a></li>
+        <li><a href="shopping_cart.html">Shopping Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>
+        <li><a href="legal.html">Legal</a></li>
+        <li><a href="support.html">Support</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Free Resources</h1>
+    <div class="resource-grid">
+      <div class="resource-card">
+        <img src="webinar1.jpg" alt="Webinar 1">
+        <h2>Webinar 1</h2>
+        <p>Learn about the latest trading strategies and techniques in this informative webinar.</p>
+        <a href="webinar1.html" class="cta-button">Watch Now</a>
+      </div>
+      <div class="resource-card">
+        <img src="ebook1.jpg" alt="E-book 1">
+        <h2>E-book 1</h2>
+        <p>Discover the secrets of successful trading in this comprehensive guide.</p>
+        <a href="ebook1.html" class="cta-button">Download</a>
+      </div>
+      <div class="resource-card">
+        <img src="tutorial1.jpg" alt="Tutorial 1">
+        <h2>Tutorial 1</h2>
+        <p>Learn how to use trading indicators and Expert Advisors with this step-by-step tutorial.</p>
+        <a href="tutorial1.html" class="cta-button">Watch Now</a>
+      </div>
+      <!-- Add more resource cards as needed -->
+    </div>
+  </main>
+  <footer>
+    <p>Copyright ©2022 Trading Indicators and Expert Advisors</p>
+  </footer>
+  <script>
+    // JavaScript code to add sorting and filtering functionality to the resource grid
+    const resourceCards = document.querySelectorAll('.resource-card');
+    // Add event listeners to sorting and filtering buttons
+/ Sort resources by type, date, etc.
+// Filter resources by category, etc.
+</script>
+
+</body>
+</html>
+
+
+

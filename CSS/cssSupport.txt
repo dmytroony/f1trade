@@ -1,0 +1,66 @@
+/* Support Page Styles */
+.support-section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.support-content {
+  background-color: #f5f5f5;
+  padding: 20px;
+  box-shadow: 2px 2px 2px #ccc;
+}
+
+.support-content h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.support-content p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin-bottom: 20px;
+}
+
+.support-content a {
+  color: blue;
+}
+
+.support-form {
+  background-color: #f5f5f5;
+  padding: 20px;
+  box-shadow: 2px 2px 2px #ccc;
+  margin-top: 20px;
+}
+
+.support-form label {
+  font-size: 1.2em;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.support-form input[type="text"],
+.support-form input[type="email"],
+.support-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.support-form input[type="submit"] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.support-form input[type="submit"]:hover {
+  background-color: #45a049;
+}

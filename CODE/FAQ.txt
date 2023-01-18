@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Indicators and Expert Advisors - FAQ</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="free_resources.html">Free Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="my_account.html">My Account</a></li>
+        <li><a href="shopping_cart.html">Shopping Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>
+        <li><a href="legal.html">Legal</a></li>
+        <li><a href="support.html">Support</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Frequently Asked Questions</h1>
+    <div class="faq-content">
+      <h2>About our Products</h2>
+      <div>
+        <h3>What are trading indicators and expert advisors?</h3>
+        <p>Trading indicators are mathematical calculations that are used to predict future price movements. Expert advisors, also known as trading robots, are programs that automatically execute trades based on a set of predefined rules and conditions.</p>
+        <h3>Do your products work on all trading platforms?</h3>
+        <p>Our products are compatible with the most popular trading platforms, including MetaTrader 4 and 5, NinjaTrader, and TradeStation. However, it's always a good idea to check the specific requirements and compatibility of each product before purchasing.</p>
+        <h3>What is the refund policy for your products?</h3>
+        <p>We offer a 30-day money-back guarantee for all of our products. If you are not satisfied with your purchase, please contact us within 30 days for a full refund.</p>
+      </div>
+      <h2>About the Website</h2>
+      <div>
+        <h3>How do I createan account on your website?</h3>
+<p>You can create an account by clicking on the "My Account" link in the navigation menu and following the prompts to enter your personal information and create a password.</p>
+<h3>How do I reset my password?</h3>
+<p>If you have forgotten your password, you can click on the "Forgot Password" link on the login page and follow the prompts to reset your password. You will need to provide the email associated with your account and follow the instructions sent to your email to reset your password.</p>
+<h3>What are the payment methods accepted on the website?</h3>
+<p>We accept multiple payment methods such as credit card, PayPal, and bank transfer.</p>
+<h3>Is the website secure?</h3>
+<p>Yes, the website is secured with SSL encryption to protect your personal information and all transactions.</p>
+</div>
+</div>
+
+  </main>
+  <footer>
+    <p>Copyright ©2022 Trading Indicators and Expert Advisors</p>
+  </footer>
+</body>
+</html>
+
+

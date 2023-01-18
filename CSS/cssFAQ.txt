@@ -1,0 +1,22 @@
+/* FAQ Page Styles */
+.faq-content {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.faq-content h2 {
+  font-size: 2em;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.faq-content h3 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.faq-content p {
+  font-size: 1.2em;
+  margin-top: 10px;
+}

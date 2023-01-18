@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Indicators and Expert Advisors - Contact Us</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="free_resources.html">Free Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="my_account.html">My Account</a></li>
+        <li><a href="shopping_cart.html">Shopping Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>
+        <li><a href="legal.html">Legal</a></li>
+        <li><a href="support.html">Support</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Contact Us</h1>
+    <div class="contact-us-content">
+      <form id="contact-form" action="submit_form.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" name="subject" required>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+<input type="submit" value="Submit">
+      </form>
+      <div class="contact-info">
+        <p>You can also reach us at:</p>
+        <p>Email: <a href="mailto:support@tradingindicators.com">support@tradingindicators.com</a></p>
+        <p>Phone: (123) 456-7890</p>
+        <p>Address: 123 Main St, Anytown USA 00000</p>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>Copyright ©2022 Trading Indicators and Expert Advisors</p>
+  </footer>
+</body>
+</html>
+
+

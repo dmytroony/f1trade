@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Indicators and Expert Advisors - Shopping Cart</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="free_resources.html">Free Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="my_account.html">My Account</a></li>
+        <li><a href="shopping_cart.html">Shopping Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>
+        <li><a href="legal.html">Legal</a></li>
+        <li><a href="support.html">Support</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Shopping Cart</h1>
+    <table>
+      <tr>
+        <th>Product</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Subtotal</th>
+        <th>Actions</th>
+      </tr>
+      <tr>
+        <td>Trading Indicator A</td>
+        <td>$99.99</td>
+        <td>
+          <input type="number" id="quantity-1" value="1" min="1">
+          <button onclick="updateQuantity(1)">Update</button>
+        </td>
+        <td id="subtotal-1">$99.99</td>
+        <td>
+          <button onclick="removeFromCart(1)">Remove</button>
+        </td>
+      </tr>
+      <tr>
+        <td>Expert Advisor B</td>
+        <td>$149.99</td>
+        <td>
+          <input type="number" id="quantity-2" value="1" min="1">
+          <button onclick="updateQuantity(2)">Update</button>
+        </td>
+        <td id="subtotal-2">$149.99</td>
+        <td>
+          <button onclick="removeFromCart(2)">Remove</button>
+</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td>Total: <span id="total">$249.98</span></td>
+<td><button onclick="location.href='checkout.html'">Proceed to Checkout</button></td>
+</tr>
+</table>
+<script>
+function updateQuantity(productId) {
+// code to update the quantity and subtotal of the product
+}
+
+
+
+function removeFromCart(productId) {
+    // code to remove the product from the cart
+  }
+  
+  function calculateTotal() {
+    // code to calculate the total cost of all products in the cart
+  }
+</script>
+
+
+</main>
+  <footer>
+    <p>Copyright ©2022 Trading Indicators and Expert Advisors</p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+
